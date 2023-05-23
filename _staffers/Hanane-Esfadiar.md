@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
+name: Hanane Esfadiar
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: https://Hana
+photo: H_Esfandiar.jpg
 ---
 
 I like teaching Computer Science!
