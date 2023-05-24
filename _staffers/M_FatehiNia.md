@@ -1,6 +1,6 @@
 ---
 name: Mohammad Reza FatehiNia
-role: Teaching Assistant of CWII
+role: Teaching Assistant
 email: me@example.com
 website: https://Nima
 photo: M_FatehiNia.jpg
