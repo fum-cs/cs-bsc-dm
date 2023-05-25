@@ -1,9 +1,9 @@
 ---
-name: Ali Javidi
+name: Mina Mehrvarz
 role: Teaching Assistant
 email: me@example.com
-website: https://Javidi
-photo: A_Javidi.jpg
+website: https://Mehrvarz
+photo: M-Mehrvarz.jpg
 ---
 
 I like teaching Computer Science!

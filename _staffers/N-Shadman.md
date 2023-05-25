@@ -1,9 +1,9 @@
 ---
-name: Mohammad Reza FatehiNia
-role: Teaching Assistant of CWII
+name: Nima Shadman
+role: Teaching Assistant
 email: me@example.com
 website: https://Nima
-photo: M_FatehiNia.jpg
+photo: N-Shadman.jpg
 ---
 
 I like teaching Computer Science!

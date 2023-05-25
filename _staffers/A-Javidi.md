@@ -1,9 +1,9 @@
 ---
-name: Hanane Esfadiar
+name: Ali Javidi
 role: Teaching Assistant
 email: me@example.com
-website: https://Hana
-photo: H_Esfandiar.jpg
+website: https://Javidi
+photo: A-Javidi.jpg
 ---
 
 I like teaching Computer Science!

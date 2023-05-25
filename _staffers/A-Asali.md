@@ -1,9 +1,9 @@
 ---
-name: Mina Mehrvarz
+name: AmirReza Asali
 role: Teaching Assistant
 email: me@example.com
-website: https://Mehrvarz
-photo: M_Mehrvarz.jpg
+website: https://Asali
+photo: A-Asali.jpg
 ---
 
 I like teaching Computer Science!
