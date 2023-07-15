@@ -2,6 +2,7 @@
 layout: page
 title: Homeworks
 permalink: /homeworks/
+nav_exclude: false
 ---
 
 # Homeworks
