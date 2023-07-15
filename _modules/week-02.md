@@ -1,11 +1,11 @@
 ---
-title: Basic Data Structures
+title: Week02 - Data Science with python
 ---
 
 Oct 5
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
-
+ش
 Oct 6
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
