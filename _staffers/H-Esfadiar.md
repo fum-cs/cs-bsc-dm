@@ -1,6 +1,6 @@
 ---
 name: Hanane Esfadiar
-role: Teaching Assistant
+role: TA Head
 email: me@example.com
 website: https://Hana
 photo: H-Esfandiar.jpg
