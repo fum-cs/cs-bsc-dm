@@ -2,22 +2,20 @@
 title: Week09 - Decision Tree
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+1
+: [Entropy (information theory) (wikipedia)](https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+2
+: [Decision tree slides (up to page 20)](https://www.dropbox.com/s/0qlj0yy4muqc8yp/dt.pdf?dl=1)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+3
+: **HW**{: .label .label-red }[Golf Game Decision Tree](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw4)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+4
+: **HW**{: .label .label-red }[Completion of the decision tree program](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw5)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+5
+: [In-Depth: Decision Trees and Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
+
+6
+: **HW**{: .label .label-red }[Classification of Persian Hoda digits with random forest](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw6)
