@@ -4,7 +4,7 @@ title: Reference
 nav_exclude: true
 ---
 
-# Reference
+# References
 
 |1 : [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)|[**Codes**](https://github.com/jakevdp/PythonDataScienceHandbook)|
 
