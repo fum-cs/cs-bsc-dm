@@ -2,22 +2,14 @@
 title: Week01 - Introduction
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+1
+: [Instructor's personal page](http://mamintoosi.ir/wp/pubs/)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+2
+: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+3
+: [Python Data Science Handbook's codes](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+4
+: [References](https://fum-cs.github.io/cs-bsc-dm/reference/)
