@@ -14,3 +14,6 @@ title: Week04 - KNN Classification
 
 4
 : **Code**{: .label .label-green} [KNN-mnist](https://colab.research.google.com/github/mamintoosi/DM/blob/master/code/KNN/KNN-mnist.ipynb)
+
+5
+: **HW**{: .label .label-red }[Hand Written digits Recognition](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw1)
