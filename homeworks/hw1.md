@@ -13,4 +13,4 @@ parent: Homeworks
 - If your running time is long, for example, select 30% for training and the rest for testing.
 - Write a Persian number on paper yourself, take a photo with your mobile phone and give it to the program to identify it.
 - Just send a jupyternotebook file that has been executed and the results can be seen. Do not submit the dataset.
-- In this assignment, it is free to use all the resources of the world and consult with each other. But every student must master all the program he/she delivers. Try to do the work yourself.
+- In this assignment, it is free to use all the resources of the world and consult with each other.
