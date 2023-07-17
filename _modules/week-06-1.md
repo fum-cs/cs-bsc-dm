@@ -1,5 +1,5 @@
 ---
-title: Week06 - Regression/ Legestic Regression
+title: Week06 - Regression/ Logistic Regression
 ---
 
 1
