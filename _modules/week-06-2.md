@@ -2,22 +2,11 @@
 title: Week06 - Bayes Method
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+1
+: [Bayesian Classification](https://www.dropbox.com/s/cv22u3jlx2lrre5/Bayesian%20Classification%20withInsect_examples.pdf?dl=0)
+  : [up to page 17]()
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+2
+: [A simple explanation of Naive Bayes Classification](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
+  : [The highest score answer]()
