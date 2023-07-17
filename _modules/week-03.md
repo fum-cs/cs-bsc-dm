@@ -11,4 +11,4 @@ title: Week03 - Neural Networks
 
 3
 : [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-  : [sections 5.00](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html), [sections 5.01](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) , [sections 5.02](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
+  : [section 5.00](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html), [section 5.01](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html), [section 5.02](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
