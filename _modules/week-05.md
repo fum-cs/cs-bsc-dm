@@ -2,22 +2,15 @@
 title: Week05 - K-means Clustering
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+1
+: [K-means from the ESL book](https://hastie.su.domains/Papers/ESLII.pdf)
+  : [section 14.3.6](https://hastie.su.domains/Papers/ESLII.pdf)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+2
+: [K-means Clustering](https://www.dropbox.com/s/mrxdshg6nx98ojk/kmeans-clustering.pdf?dl=1)
+  : [section 8.3](https://www.dropbox.com/s/mrxdshg6nx98ojk/kmeans-clustering.pdf?dl=1)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+3
+: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  : [section 5.11](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
