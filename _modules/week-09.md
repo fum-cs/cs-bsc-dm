@@ -6,8 +6,9 @@ title: Week09 - Decision Tree
 : [Entropy (information theory) (wikipedia)](https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA)
 
 2
-: [Decision tree slides (up to page 20)](https://www.dropbox.com/s/0qlj0yy4muqc8yp/dt.pdf?dl=1)
-
+: [Decision tree slides](https://www.dropbox.com/s/0qlj0yy4muqc8yp/dt.pdf?dl=1)
+  : [up to page 20]()
+  
 3
 : **HW**{: .label .label-red }[Golf Game Decision Tree](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw4)
 
