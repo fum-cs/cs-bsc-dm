@@ -3,7 +3,8 @@ title: Week03 - Neural Networks
 ---
 
 1
-: [ Application of Taylor's expansion in reducing the volume of convolutional neural network (to the beginning of section 3.2)](https://math-sci.ui.ac.ir/article_25351.html)
+: [ Application of Taylor's expansion in reducing the volume of convolutional neural network](https://math-sci.ui.ac.ir/article_25351.html)
+ : [up to section 3.2]
 
 2
 : [Introduction to PyTorch](https://github.com/mamintoosi-cs/pytorch-workshop)
