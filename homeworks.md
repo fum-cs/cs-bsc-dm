@@ -14,3 +14,4 @@ nav_exclude: true
 |**HW05**{: .label .label-red }[  Completion of the decision tree program](/cs-bsc-dm/homeworks/hw5)|
 |**HW06**{: .label .label-red }[  Classification of Persian Hoda digits with random forest](/cs-bsc-dm/homeworks/hw6)|
 |**HW07**{: .label .label-red }[  Implementation of Gradient Descent](/cs-bsc-dm/homeworks/hw7)|
+|**HW08**{: .label .label-red }[  Logistic Regression](/cs-bsc-dm/homeworks/hw8)|

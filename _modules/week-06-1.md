@@ -18,6 +18,6 @@ title: Week06 - Regression/ Logistic Regression
 : **Code**{: .label .label-green} [Logistic Regression](https://colab.research.google.com/github/mamintoosi-cs/pytorch-workshop/blob/master/3_2_Regression_Logistc_Reg.ipynb)
 
 6
-: **HW**{: .label .label-red }[Logistic Regression]()
+: **HW**{: .label .label-red }[Logistic Regression](https://fum-cs.github.io/cs-bsc-dm/homeworks/hw8)
 
 
