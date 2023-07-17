@@ -4,10 +4,11 @@ title: Week03 - Neural Networks
 
 1
 : [ Application of Taylor's expansion in reducing the volume of convolutional neural network](https://math-sci.ui.ac.ir/article_25351.html)
- : [up to section 3.2]
+  : [up to section 3.2]()
 
 2
 : [Introduction to PyTorch](https://github.com/mamintoosi-cs/pytorch-workshop)
 
 3
-: [Sections 5.00 to 5.02 of Chapter 5 by Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  : [sections 5.00](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html), [sections 5.01](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html) , [sections 5.02](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
