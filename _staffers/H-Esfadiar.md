@@ -2,7 +2,7 @@
 name: Hanane Esfadiar
 role: Teaching Assistant
 type: TA Head
-email: me@example.com
+email: Hanaesfandiar100@gmail.com
 website: https://Hana
 photo: H-Esfandiar.jpg
 ---
