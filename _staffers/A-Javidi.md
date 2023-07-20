@@ -2,7 +2,7 @@
 name: Ali Javidi
 role: Teaching Assistant
 type: TA
-email: me@example.com
+email: alijavidics@gmail.com
 website: https://Javidi
 photo: A-Javidi.jpg
 ---
