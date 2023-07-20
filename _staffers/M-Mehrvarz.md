@@ -2,7 +2,7 @@
 name: Mina Mehrvarz
 role: Teaching Assistant
 type: TA
-email: me@example.com
+email: mehrvarzmina7@gmail.com
 website: https://Mehrvarz
 photo: M-Mehrvarz.jpg
 ---
