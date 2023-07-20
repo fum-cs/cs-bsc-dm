@@ -2,7 +2,7 @@
 name: Nima Shadman
 role: Teaching Assistant
 type: TA
-email: me@example.com
+email: Nima.shadman619@gmail.com
 website: https://Nima
 photo: N-Shadman.jpg
 ---
