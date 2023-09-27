@@ -6,8 +6,6 @@ description: A description of the content covered in the course.
 currWeekNumber: 1
 ---
 
-# Deep Learning
-
 {: .mb-2 }
 Ferdowsi University of Mashhad, Fall 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
