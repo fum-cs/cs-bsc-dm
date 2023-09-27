@@ -23,7 +23,7 @@ Ferdowsi University of Mashhad, Fall 2023
 </div>
 
 {: .highlight }
-> Welcome to Deep Learning Course!
+> Welcome to the Course!
 
 
 <a name="lectures"></a>
