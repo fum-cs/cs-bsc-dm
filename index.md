@@ -7,7 +7,7 @@ currWeekNumber: 1
 ---
 
 {: .mb-2 }
-Ferdowsi University of Mashhad, Fall 2023
+Ferdowsi University of Mashhad, Spring 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
