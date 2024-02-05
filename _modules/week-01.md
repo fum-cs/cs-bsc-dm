@@ -3,7 +3,7 @@ title: Week01 - Introduction
 ---
 
 1
-: [Instructor's personal page](http://mamintoosi.ir/wp/pubs/)
+: [Instructor's personal page](https://mamintoosi.github.io/)
 
 2
 : [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
